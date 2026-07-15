@@ -16,8 +16,6 @@ The dashboard helps users explore:
 - Venue analysis
 - Toss decision insights
 - Win type distribution
-- Orange Cap & Purple Cap winners
-- Top run scorers and wicket takers
 
 ---
 

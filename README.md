@@ -122,32 +122,6 @@ Source: Public IPL datasets.
 
 ---
 
-## ▶️ How to Run
-
-1. Clone the repository
-
-```
-git clone https://github.com/yourusername/IPL-Analytics-Dashboard-Tableau.git
-```
-
-2. Open
-
-```
-IPL Analytics Dashboard.twbx
-```
-
-using Tableau Public or Tableau Desktop.
-
----
-
-## 📸 Screenshots
-
-Dashboard
-<img width="1767" height="960" alt="Screenshot 2026-07-15 203511" src="https://github.com/user-attachments/assets/133851dc-1362-4b03-a1f8-8b0b7f8e2420" />
-
-
----
-
 ## 👤 Author
 
 **Sahil Pidathal**
